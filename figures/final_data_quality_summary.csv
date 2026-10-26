@@ -1,0 +1,15 @@
+Column,Data Type,Non-Null Values,Missing Values,Missing Percentage,Unique Values
+InvoiceNo,object,524878,0,0.0,19960
+StockCode,object,524878,0,0.0,3922
+Description,object,524878,0,0.0,4007
+Quantity,int64,524878,0,0.0,375
+InvoiceDate,datetime64[ns],524878,0,0.0,18499
+UnitPrice,float64,524878,0,0.0,1291
+CustomerID,float64,392692,132186,25.18,4338
+Country,object,524878,0,0.0,38
+Year,int32,524878,0,0.0,2
+Month,int32,524878,0,0.0,12
+Day,int32,524878,0,0.0,31
+Hour,int32,524878,0,0.0,15
+DayOfWeek,object,524878,0,0.0,6
+TotalAmount,float64,524878,0,0.0,4906

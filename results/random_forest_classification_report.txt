@@ -1,0 +1,8 @@
+                     precision    recall  f1-score   support
+
+     Other Customer       0.97      0.96      0.97       651
+High Value Customer       0.88      0.91      0.90       217
+
+           accuracy                           0.95       868
+          macro avg       0.93      0.94      0.93       868
+       weighted avg       0.95      0.95      0.95       868

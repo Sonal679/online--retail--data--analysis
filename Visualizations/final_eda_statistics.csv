@@ -1,0 +1,16 @@
+Metric,Value
+Original Rows,541909.0
+Final EDA Rows,392692.0
+Rows Removed,149217.0
+Total Revenue,8887208.894000001
+Average Revenue per Row,22.631499735161402
+Unique Customers,4338.0
+Unique Products,3665.0
+Unique Countries,37.0
+Cancelled Transactions,9288.0
+Negative Quantity Records,10624.0
+Zero Quantity Records,0.0
+Negative Unit Price Records,2.0
+Zero Unit Price Records,2515.0
+Top 10 Customer Revenue Contribution (%),17.30193616848723
+Top 10 Country Revenue Contribution (%),96.87368381553877

@@ -1,0 +1,14 @@
+Item,Details
+Project Title,End-to-End Data Science Analysis of Online Retail Customer Behaviour
+Dataset,UCI Online Retail
+Dataset Source,UCI Machine Learning Repository
+Programming Language,Python
+Data Processing,"Pandas, NumPy"
+Visualization,"Matplotlib, Seaborn"
+Unsupervised Model,K-Means Clustering
+Supervised Model 1,Logistic Regression
+Supervised Model 2,Random Forest Classifier
+Clustering Features,"Recency, Frequency, Monetary"
+Classification Target,High Value Customer
+Train-Test Split,80% Training / 20% Testing
+Random State,42

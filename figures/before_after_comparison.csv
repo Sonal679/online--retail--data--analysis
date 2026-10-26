@@ -1,0 +1,7 @@
+Metric,Before Cleaning,After Cleaning
+Number of Rows,541909,524878
+Number of Columns,8,14
+Duplicate Records,5268,0
+Missing Values,136534,132186
+Negative Quantities,10624,0
+Non-positive Unit Prices,2517,0

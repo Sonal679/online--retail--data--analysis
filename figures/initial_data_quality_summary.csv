@@ -1,0 +1,9 @@
+Column,Data Type,Non-Null Values,Missing Values,Missing Percentage,Unique Values
+InvoiceNo,object,541909,0,0.0,25900
+StockCode,object,541909,0,0.0,4070
+Description,object,540455,1454,0.27,4223
+Quantity,int64,541909,0,0.0,722
+InvoiceDate,datetime64[ns],541909,0,0.0,23260
+UnitPrice,float64,541909,0,0.0,1630
+CustomerID,float64,406829,135080,24.93,4372
+Country,object,541909,0,0.0,38

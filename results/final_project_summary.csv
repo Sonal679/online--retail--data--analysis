@@ -1,0 +1,16 @@
+Metric,Value
+Original Rows,541909
+Original Columns,8
+Cleaned Rows,392692
+Cleaned Columns,15
+Total Revenue,8887208.894000001
+Unique Customers,4338
+Unique Transactions,18532
+Unique Products,3665
+Unique Countries,37
+Selected K,2
+Final Silhouette Score,0.4328265515350662
+High Value Customer Threshold,1660.5974999999999
+Best Supervised Model by F1,Random Forest
+Best F1 Score,0.8979591836734694
+Execution Time Minutes,1.0287697275479635

@@ -1,0 +1,8 @@
+Measure,Original Dataset,Refined EDA Dataset
+Number of Rows,541909.0,392692.0
+Number of Columns,16.0,16.0
+Total Revenue,9747747.934,8887208.894000001
+Average Revenue,17.987794876999644,22.631499735161402
+Unique Customers,4372.0,4338.0
+Unique Products,4070.0,3665.0
+Unique Countries,38.0,37.0
